@@ -16119,7 +16119,10 @@
 :do { add address=2406:840:8a0::/43 list=CN } on-error={}
 :do { add address=2406:840:8c0::/42 list=CN } on-error={}
 :do { add address=2406:840:900::/40 list=CN } on-error={}
-:do { add address=2406:840:a00::/44 list=CN } on-error={}
+:do { add address=2406:840:a01::/48 list=CN } on-error={}
+:do { add address=2406:840:a02::/47 list=CN } on-error={}
+:do { add address=2406:840:a04::/46 list=CN } on-error={}
+:do { add address=2406:840:a08::/45 list=CN } on-error={}
 :do { add address=2406:840:a12::/47 list=CN } on-error={}
 :do { add address=2406:840:a14::/46 list=CN } on-error={}
 :do { add address=2406:840:a18::/45 list=CN } on-error={}
